@@ -1,1 +1,1 @@
-# MERN Stack -- Crash Course / Starter Template 
+# MERN Stack -- Crash Course / Starter Template
